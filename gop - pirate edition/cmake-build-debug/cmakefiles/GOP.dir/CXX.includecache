@@ -1,0 +1,160 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+../include/Giocatore.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Giocatore.h
+../include/GOP.h
+C:/Users/Sara/Desktop/GOP 10-06/include/GOP.h
+
+C:/Users/Sara/Desktop/GOP 10-06/include/Carta.h
+../include/Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+
+C:/Users/Sara/Desktop/GOP 10-06/include/Casella.h
+../include/Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+
+C:/Users/Sara/Desktop/GOP 10-06/include/GOP.h
+Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+
+C:/Users/Sara/Desktop/GOP 10-06/include/Giocatore.h
+cstring
+-
+string
+-
+../include/GOP.h
+C:/Users/Sara/Desktop/GOP 10-06/include/GOP.h
+
+C:/Users/Sara/Desktop/GOP 10-06/main.cpp
+iostream
+-
+include/GOP.h
+C:/Users/Sara/Desktop/GOP 10-06/include/GOP.h
+
+C:/Users/Sara/Desktop/GOP 10-06/src/Carta.cpp
+../include/Casella.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Casella.h
+../include/Giocatore.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Giocatore.h
+../include/Carta.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Carta.h
+../include/GOP.h
+C:/Users/Sara/Desktop/GOP 10-06/include/GOP.h
+../include/Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+cstdlib
+-
+ctime
+-
+iostream
+-
+conio.h
+C:/Users/Sara/Desktop/GOP 10-06/src/conio.h
+windows.h
+C:/Users/Sara/Desktop/GOP 10-06/src/windows.h
+
+C:/Users/Sara/Desktop/GOP 10-06/src/Casella.cpp
+../include/Casella.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Casella.h
+../include/Giocatore.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Giocatore.h
+../include/GOP.h
+C:/Users/Sara/Desktop/GOP 10-06/include/GOP.h
+../include/Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+cstdlib
+-
+ctime
+-
+iostream
+-
+
+C:/Users/Sara/Desktop/GOP 10-06/src/Dado.cpp
+windows.h
+-
+ctime
+-
+conio.h
+-
+iostream
+-
+../include/Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+
+C:/Users/Sara/Desktop/GOP 10-06/src/GOP.cpp
+iostream
+-
+ctime
+-
+conio.h
+-
+windows.h
+-
+../include/Giocatore.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Giocatore.h
+../include/Casella.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Casella.h
+../include/Carta.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Carta.h
+../include/GOP.h
+C:/Users/Sara/Desktop/GOP 10-06/include/GOP.h
+
+C:/Users/Sara/Desktop/GOP 10-06/src/General_functions.cpp
+ctime
+-
+cstring
+-
+iostream
+-
+conio.h
+-
+windows.h
+-
+../include/Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+
+C:/Users/Sara/Desktop/GOP 10-06/src/Giocatore.cpp
+../include/Giocatore.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Giocatore.h
+../include/GOP.h
+C:/Users/Sara/Desktop/GOP 10-06/include/GOP.h
+../include/Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+cstring
+-
+iostream
+-
+conio.h
+-
+
+C:/Users/Sara/Desktop/GOP 10-06/src/Graphics.cpp
+conio.h
+-
+iostream
+-
+windows.h
+-
+../include/Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+../include/GOP.h
+C:/Users/Sara/Desktop/GOP 10-06/include/GOP.h
+../include/Giocatore.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Giocatore.h
+../include/Casella.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Casella.h
+
+C:/Users/Sara/Desktop/GOP 10-06/src/Tabellone.cpp
+iostream
+-
+../include/Auxiliary_functions.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Auxiliary_functions.h
+../include/Giocatore.h
+C:/Users/Sara/Desktop/GOP 10-06/include/Giocatore.h
+
